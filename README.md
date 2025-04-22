@@ -27,9 +27,4 @@ The classifier achieved:
 
 Confusion matrix visualization helps understand per-class performance.
 
-## 🔧 Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/support-case-classifier.git
-   cd support-case-classifier
